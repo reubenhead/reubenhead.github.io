@@ -9,15 +9,15 @@
 
 ---
 [Bennie's Bakeshop - With Some More Practice](/pdf/sample_presentation.pdf)
-<img src="images/bennie's_bakeshop_thumbnail.png?raw=true"/>
+<img src="images/bennie's_bakeshop_thumbnail.PNG?raw=true"/>
 
 ---
 [Head Photography - My Final Project](http://example.com/)
-<img src="images/head_photography_thubmnail.png?raw=true"/>
+<img src="images/head_photography_thubmnail.PNG?raw=true"/>
 
 ---
 [Nimba Ltd - First Client (WordPress)](http://example.com/)
-<img src="images/nimba_ltd_thumbnail.png?raw=true"/>
+<img src="images/nimba_ltd_thumbnail.PNG?raw=true"/>
 
 
 
