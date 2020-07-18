@@ -2,7 +2,7 @@
 
 ---
 
-### My Webistes 
+### My Work
 
 [<img src="images/explore_new_zealand_thumbnail.PNG?raw=true"/>](/sample_page)
 Explore New Zealand - My first website
