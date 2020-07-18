@@ -1,7 +1,7 @@
 title: Reuben Head # your name (or website title) here
 logo: "/images/reubenhead.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  A dedicated and committed Web Design and Development
+  <style text-align: justify;>>A dedicated and committed Web Design and Development
   graduate looking for a fulfilling career in the Information
   Technology sector, with an extensive background in military
   intelligence. Possess a Diploma in Web Design and Development
@@ -12,6 +12,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Currently working for Datacom as a Service Desk Analyst in
   Wellington, New Zealand.
   <br><br>
+  </style>
   <a href="https://www.linkedin.com/in/reuben-head/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
