@@ -5,19 +5,19 @@
 ### My Webistes 
 
 [Explore New Zealand - My First Website](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/explore_new_zealand_thumbnail?raw=true"/>
 
 ---
 [Bennie's Bakeshop - With Some More Practice](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bennie's_bakeshop_thumbnail?raw=true"/>
 
 ---
 [Head Photography - My Final Project](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/head_photography_thubmnail?raw=true"/>
 
 ---
 [Nimba Ltd - First Client (WordPress)](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/nimba_ltd_thumbnail?raw=true"/>
 
 
 
