@@ -13,7 +13,7 @@
 
 ---
 [Head Photography - My Final Project](http://example.com/)
-<img src="images/head_photography_thubmnail.PNG?raw=true"/>
+<img src="images/head_photography_thumbnail.PNG?raw=true"/>
 
 ---
 [Nimba Ltd - First Client (WordPress)](http://example.com/)
