@@ -5,7 +5,7 @@
 ### My Webistes 
 
 [Explore New Zealand - My First Website](/sample_page)
-<img src="images/explore_new_zealand_thumbnail.png"/>
+<img src="images/explore_new_zealand_thumbnail.png?raw=true"/>
 
 ---
 [Bennie's Bakeshop - With Some More Practice](/pdf/sample_presentation.pdf)
